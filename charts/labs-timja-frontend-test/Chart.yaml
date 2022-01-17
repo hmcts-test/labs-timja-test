@@ -1,0 +1,11 @@
+apiVersion: v2
+appVersion: "1.0"
+description: A Helm chart for labs-timja-frontend-test App
+name: labs-timja-frontend-test
+home: https://github.com/hmcts/labs-timja-frontend-test
+version: 0.0.1
+dependencies:
+  - name: nodejs
+    version: 2.3.9
+    repository: '@hmctspublic'
+
