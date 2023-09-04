@@ -1240,12 +1240,11 @@
     "@types/node" "*"
     "@types/webpack" "*"
 
-"@types/csurf@^1.9.36":
-  version "1.9.36"
-  resolved "https://registry.yarnpkg.com/@types/csurf/-/csurf-1.9.36.tgz#f0139ef24f4d2a1a59674e2fcd7a13d86cff626a"
-  integrity sha512-arAJD++ZGT9eZVR+BQa1eaT7Id5pZ9nt4/x2Emxg8OEo6WAQV0ztVXS7A8n0RDd4KAaw2YYcwZUdjUvqg2k9tw==
+"@types/csurf@^1.11.3":
+  version "1.11.3"
+  resolved "https://registry.yarnpkg.com/@types/csurf/-/csurf-1.11.3.tgz#4c071ffcef1612d71431a0fd4e39ed5e0ec0d6ed"
+  integrity sha512-PxiVZGf+pntWr7IsDW5ny/xUN4deDgW5BdVvtGQrshK+qfo5oqn4ihys2Mgl2AVfUs3GfKxZkxpzn3AQyJY5Sg==
   dependencies:
-    "@types/express" "*"
     "@types/express-serve-static-core" "*"
 
 "@types/es6-promisify@^6.0.0":
